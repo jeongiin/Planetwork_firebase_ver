@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhiteGray">#D2D2D2</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLetterFont">#70250B</color>
+    <color name="colorPlanetBackground">#524C64</color>
+    <color name="colorLetterBackground">#A59BB6</color>
+    <color name="colorPostBackground">#E0D5F1</color>
+    <color name="colorRVBackground">#C1AEE0</color>
+</resources>
